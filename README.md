@@ -16,5 +16,3 @@ Some my pet and study projects:
 
 ### Follow Me:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909)](https://www.linkedin.com/in/alexander-krasovsky/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909)](https://www.instagram.com/krasovski_alexander/)
-[![Vk](https://img.shields.io/badge/-Vk-090909)](https://vk.com/aleksandr_krasovski)
