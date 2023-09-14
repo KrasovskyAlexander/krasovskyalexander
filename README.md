@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alexander from Minsk. I am a front-end developer with 2+ years commercial experience in EPAM
+I'm Alexander from Minsk. I am a front-end developer with 3 years commercial experience
 
 ### My main stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
