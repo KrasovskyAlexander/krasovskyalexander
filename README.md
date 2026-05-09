@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alexander from Minsk. I am a front-end developer with 3 years commercial experience
+I'm Alexander from Minsk. I am a front-end developer with 5 years commercial experience
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KrasovskyAlexander&border_radius=7&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
